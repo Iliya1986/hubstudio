@@ -4,3 +4,7 @@
 .nav-link.active{
     color: rgb(111, 112, 112);
 }
+
+.navbar-toggler{
+    color: rgb(111, 112, 112); 
+}
